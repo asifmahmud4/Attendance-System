@@ -1,0 +1,3 @@
+Steps:
+1. Import attendance.sql to database
+2. Goto to website http://localhost/AttendanceSytem/
